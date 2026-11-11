@@ -1,0 +1,92 @@
+pair,chain,kind,curator,attribution,vault,address,usd
+WETH/wstETH,Monad,vault-v2-adapter,Steakhouse Financial,tagged,Steakhouse Prime ETH,0xA6b6155b214E1b378344987B6De5E79EAE828e35,20724571.84
+WETH/wstETH,Monad,unidentified,,,,0x59ABc0e437971d585c2bc4d69DC8B31F2f23E855,3897669.77
+WETH/wstETH,Monad,unidentified,,,,0x3C11b946820c1F9C9b86CcD740b9986041155241,460563.54
+WETH/wstETH,Monad,unidentified,,,,0x9b6f53be2af3Cd989f82134deB1963532d3Ec50e,61940.73
+WETH/wstETH,Monad,unidentified,,,,0xB8B1be69A221Ce7b747ce71f262C0B18Bc60df19,18677.01
+WETH/wstETH,Monad,unidentified,,,,0xe786811D08AF6E64dEb98744Ba490B1b1da4E891,11809.86
+WETH/wstETH,Monad,vault-v1,Steakhouse Financial,inferred-from-name,Steakhouse Prime ETH,0xba8424EBBEd6C51bEa6d6D903B8815838E6a0322,239.55
+WETH/wstETH,Monad,unidentified,,,,0x777777f7447C10c1360926D282Ff218100ca279a,10.27
+WETH/wstETH,Monad,unidentified,,,,0xbadA9c382165b31419F4CC0eDf0Fa84f80A3C8E5,2.46
+WETH/wstETH,Monad,vault-v1,Steakhouse Financial,inferred-from-name,Steakhouse High Yield ETH,0x4f28CC08305E8585f8dD2A329BA41e77a9a54f97,1.33
+WETH/wstETH,Monad,unidentified,,,,0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a,0.62
+WETH/wstETH,Monad,vault-v2-adapter,Steakhouse Financial,tagged,Steakhouse High Yield ETH,0xAE5fBbc166453D94885f332d882effed24b6a155,0.30
+WETH/wstETH,Monad,unidentified,,,,0x000000000000000000000000000000000000dEaD,0.00
+WETH/wstETH,Monad,long-tail-uncovered,,,,,503560.12
+USDC/wsrUSD,Ethereum,vault-v2-adapter,Waterline,tagged,Waterline Reservoir USDC,0x5e7c120c8b1d3bD1EeB2C757dEF0E0F74272c6f0,6396412.44
+USDC/wsrUSD,Ethereum,vault-v1,Waterline,tagged,Waterline Reservoir USDC,0xbeEF346d7099865208Ff331e4f648f4154DDAa05,498412.52
+USDC/wsrUSD,Ethereum,unidentified,,,,0xc825779C89120eeEf746C51130B362478E181d39,34981.51
+USDC/wsrUSD,Ethereum,unidentified,,,,0xc2A119EA6De75e4B1451330321CB2474Eb8D82d4,677.15
+USDC/wsrUSD,Ethereum,unidentified,,,,0x928f888E02fDe769bb47577C5508d1C08D1d8faD,55.49
+USDC/wsrUSD,Ethereum,unidentified,,,,0x8cE9594BcDFed5d513B7D4c91bB6b8edAb275Dac,18.73
+USDC/wsrUSD,Ethereum,unidentified,,,,0xe1c3A197D16EF96A7C8E7c5f6B83b5E032cD76a9,4.32
+USDC/wsrUSD,Ethereum,unidentified,,,,0xf93E64079526B49FB93337789aaF1870f0356FFa,2.56
+USDC/wsrUSD,Ethereum,unidentified,,,,0x75bAFAB1B0073f942a244DD0F1061E91D7Fd196B,1.64
+USDC/wsrUSD,Ethereum,unidentified,,,,0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a,1.04
+USDC/wsrUSD,Ethereum,unidentified,,,,0x4Dd128D7CdFfE73EBBB0becdFf2e5Fb0c457E1B8,0.53
+USDC/wsrUSD,Ethereum,unidentified,,,,0x5a1B533b476701f7BAE1975Bee6B4Eb10df13061,0.07
+USDC/wsrUSD,Ethereum,unidentified,,,,0x000000000000000000000000000000000000dEaD,0.00
+USDC/wsrUSD,Ethereum,unidentified,,,,0x4C1b607CB6e1DF0541368FDA667ab673CD0602Fe,0.00
+USDC/wsrUSD,Ethereum,unidentified,,,,0x301035611B11338Fb75260A9957633903F97E7b1,0.00
+USDC/wsrUSD,Ethereum,unidentified,,,,0x81F775B7634789c428Fa89C635a40cfB0Fe14479,0.00
+USDC/wsrUSD,Ethereum,unidentified,,,,0x71863e0B4D307Ab70c9E084C03260aEdfB21D5B6,0.00
+USDC/wJAAA,Ethereum,vault-v2-adapter,Steakhouse Financial,tagged,3F x Steakhouse USDC,0xec9147e0865029A5DDAA25201eeEA09a64102492,2224918.68
+USDC/wJAAA,Ethereum,unidentified,,,,0x1416ebd818B3A6c7EB287b341d2c1637664156D6,2.04
+USDC/wJAAA,Ethereum,unidentified,,,,0x000000000000000000000000000000000000dEaD,0.00
+USDC/GRO,Base,vault-v2-adapter,Birch Hill,tagged,Birch Hill Groma Ecosystem USDC,0x37f524E7A00Ba61CE804Cc07a09CC76A300D8226,341010.85
+USDC/GRO,Base,unidentified,,,,0xF80aC6b6EE7aBFd31085524e8D72e05D21553C2A,74.39
+USDC/GRO,Base,unidentified,,,,0x000000000000000000000000000000000000dEaD,1.01
+AUSD/WBTC,Monad,vault-v2-adapter,Steakhouse Financial,tagged,Steakhouse High Yield AUSD,0x099b32A952a9e5b79cB4961a5209ad0242C4Bc73,27338.73
+AUSD/WBTC,Monad,vault-v1,Steakhouse Financial,tagged,Grove x Steakhouse High Yield AUSD,0x32841A8511D5c2c5b253f45668780B99139e476D,20891.19
+AUSD/WBTC,Monad,vault-v1,Steakhouse Financial,inferred-from-name,Steakhouse High Yield AUSD,0xBC03E505EE65f9fAa68a2D7e5A74452858C16D29,968.43
+AUSD/WBTC,Monad,unidentified,,,,0x5388A7f24e86c9c9D855A98C2F5a339AFA6a3acc,35.90
+AUSD/WBTC,Monad,unidentified,,,,0x3872A744aAff523830bc7c3A1f70ae7656151B2d,2.17
+AUSD/WBTC,Monad,unidentified,,,,0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a,1.03
+AUSD/WBTC,Monad,vault-v1,Steakhouse Financial,inferred-from-name,Grove x Steakhouse Prime AUSD,0x0E7950B089B1C4600617e641C407eF3cD15bab64,0.79
+AUSD/WBTC,Monad,unidentified,,,,0x957f996D64fD4aB8dC07140aE0fc1ebA281a7808,0.02
+AUSD/WBTC,Monad,unidentified,,,,0xd196148CEF1EB7398658b1C75528c324d47658e6,0.02
+AUSD/WBTC,Monad,unidentified,,,,0x523c4fD04438aAB5e96CADCcDC92c855390Fb459,0.01
+AUSD/WBTC,Monad,unidentified,,,,0x000000000000000000000000000000000000dEaD,0.00
+AUSD/WBTC,Monad,unidentified,,,,0x7Ec4A166b471214FC3e9BD70D97687F0c8304d2f,0.00
+AUSD/WBTC,Monad,vault-v1,(no curator match: Pocky's High Yield AUSD - Personal Vault),unattributed,Pocky's High Yield AUSD - Personal Vault,0xA2D6BE1C9D4908F4a5fbAaFFD020B4fF21D41Fca,0.00
+AUSD/WMON,Monad,vault-v1,Steakhouse Financial,tagged,Grove x Steakhouse High Yield AUSD,0x32841A8511D5c2c5b253f45668780B99139e476D,22644.22
+AUSD/WMON,Monad,vault-v2-adapter,Steakhouse Financial,tagged,Steakhouse High Yield AUSD,0x099b32A952a9e5b79cB4961a5209ad0242C4Bc73,14587.54
+AUSD/WMON,Monad,unidentified,,,,0xb2256071f809F9bBD88D56ec9D0570ea7c1499a1,4497.87
+AUSD/WMON,Monad,vault-v1,Steakhouse Financial,inferred-from-name,Steakhouse High Yield AUSD,0xBC03E505EE65f9fAa68a2D7e5A74452858C16D29,3305.14
+AUSD/WMON,Monad,unidentified,,,,0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a,1.03
+AUSD/WMON,Monad,vault-v1,Steakhouse Financial,inferred-from-name,Grove x Steakhouse Prime AUSD,0x0E7950B089B1C4600617e641C407eF3cD15bab64,0.26
+AUSD/WMON,Monad,unidentified,,,,0x000000000000000000000000000000000000dEaD,0.00
+AUSD/WETH,Monad,vault-v1,Steakhouse Financial,tagged,Grove x Steakhouse High Yield AUSD,0x32841A8511D5c2c5b253f45668780B99139e476D,26045.51
+AUSD/WETH,Monad,vault-v2-adapter,Steakhouse Financial,tagged,Steakhouse High Yield AUSD,0x099b32A952a9e5b79cB4961a5209ad0242C4Bc73,6573.51
+AUSD/WETH,Monad,unidentified,,,,0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a,1.03
+AUSD/WETH,Monad,unidentified,,,,0x000000000000000000000000000000000000dEaD,0.00
+AUSD/WETH,Monad,vault-v1,Steakhouse Financial,inferred-from-name,Steakhouse High Yield AUSD,0xBC03E505EE65f9fAa68a2D7e5A74452858C16D29,0.00
+AUSD/wstETH,Monad,vault-v1,Steakhouse Financial,tagged,Grove x Steakhouse High Yield AUSD,0x32841A8511D5c2c5b253f45668780B99139e476D,21015.39
+AUSD/wstETH,Monad,vault-v1,Steakhouse Financial,inferred-from-name,Steakhouse High Yield AUSD,0xBC03E505EE65f9fAa68a2D7e5A74452858C16D29,6368.05
+AUSD/wstETH,Monad,vault-v2-adapter,Steakhouse Financial,tagged,Steakhouse High Yield AUSD,0x099b32A952a9e5b79cB4961a5209ad0242C4Bc73,3913.54
+AUSD/wstETH,Monad,unidentified,,,,0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a,1.03
+AUSD/wstETH,Monad,unidentified,,,,0x8449f934dbFbFA050f5E7738bf2E73a811022904,0.00
+AUSD/wstETH,Monad,unidentified,,,,0x000000000000000000000000000000000000dEaD,0.00
+USDC/deSPXA,Base,vault-v2-adapter,Steakhouse Financial,tagged,Steakhouse High Yield USDC,0xfaAF20a032Aefada97278C165345B6bE1AfC18c2,25131.66
+USDC/deSPXA,Base,vault-v1,Steakhouse Financial,tagged,Steakhouse High Yield USDC v1.1,0xBEEFA7B88064FeEF0cEe02AAeBBd95D30df3878F,1115.26
+USDC/deSPXA,Base,unidentified,,,,0x80a8B3ea00E4ACd4Ffd018b1A864e5d67084984d,12.61
+USDC/deSPXA,Base,vault-v2-adapter,Clearstar,tagged,Clearstar Base RWA,0xDd82ac78B8db81F4DBCf79226f3409cC997298c1,5.08
+USDC/deSPXA,Base,vault-v2-adapter,(no curator match: Gotthard RWA USDC),unattributed,Gotthard RWA USDC,0xB374574DfCe523C3854FfAb1abEdc974702f4F78,5.04
+USDC/deSPXA,Base,unidentified,,,,0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a,1.03
+USDC/deSPXA,Base,unidentified,,,,0x000000000000000000000000000000000000dEaD,0.00
+USDC/wsrUSD,Ethereum,vault-v2-adapter,Waterline,tagged,Waterline Reservoir USDC,0x5e7c120c8b1d3bD1EeB2C757dEF0E0F74272c6f0,13333.45
+USDC/wsrUSD,Ethereum,unidentified,,,,0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a,1.07
+USDC/wsrUSD,Ethereum,unidentified,,,,0x000000000000000000000000000000000000dEaD,0.00
+USDC/wsrUSD,Ethereum,unidentified,,,,0x46cE9AA8167Fa3E154395c25d19dB25DdFCfeab4,0.00
+USDC/wsrUSD,Ethereum,unidentified,,,,0x62dFA6eBA6a34E55c454894dd9b3E688F88CB09b,0.00
+USDC/wsrUSD,Ethereum,long-tail-uncovered,,,,,312.35
+USDC/cirBTC,Arc,unidentified,,,,0xF30B92D4E0FAe196bf646F8e3D8F9e076228Bf4A,99.60
+USDC/cirBTC,Arc,unidentified,,,,0xFcDB54A0a135dD3257cd36260e7aed6bff131a8D,1.80
+USDC/cirBTC,Arc,unidentified,,,,0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a,0.01
+USDC/cirBTC,Arc,unidentified,,,,0x000000000000000000000000000000000000dEaD,0.00
+USDC/cirBTC,Arc,vault-v2-adapter,Dialectic Meccanico,tagged,Dialectic RWA USDC,0xb883bc672991771843BF32D662C0339E3451B99A,0.00
+USDC/wsrUSD,Base,unidentified,,,,0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a,0.33
+USDC/wsrUSD,Base,unidentified,,,,0xA188D6c10c291D215c63FD027C35F2f760dE8aF5,0.31
+USDC/wsrUSD,Base,unidentified,,,,0x000000000000000000000000000000000000dEaD,0.01
+USDC/wsrUSD,Base,unidentified,,,,0x69218c6f102e3bB7B2733Eb597bA29b55621045d,0.00
+USDC/wsrUSD,Base,vault-v2-adapter,Steakhouse Financial,tagged,Steakhouse High Yield USDC,0xfaAF20a032Aefada97278C165345B6bE1AfC18c2,0.00

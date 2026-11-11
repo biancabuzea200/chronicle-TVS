@@ -1,0 +1,24 @@
+{
+  "totalUsd": 8712361434.97,
+  "generatedAt": "2026-11-11T15:39:04.946009+00:00",
+  "components": [
+    {
+      "protocol": "Sky",
+      "totalUsd": 4257599209.33,
+      "generatedAt": "2026-11-11T13:59:59.227018+00:00",
+      "sourceFile": "Sky/chronicle_total.json"
+    },
+    {
+      "protocol": "Spark",
+      "totalUsd": 4419388391.19,
+      "generatedAt": "2026-11-11T14:58:42.912784+00:00",
+      "sourceFile": "Spark/chronicle_total.json"
+    },
+    {
+      "protocol": "Morpho",
+      "totalUsd": 35373834.45,
+      "generatedAt": "2026-11-11T14:02:33.833945+00:00",
+      "sourceFile": "morpho/chronicle_total.json"
+    }
+  ]
+}

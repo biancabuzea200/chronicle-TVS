@@ -1,0 +1,210 @@
+{
+  "chronicleMarkets": [
+    {
+      "pair": "WETH/wstETH",
+      "chain": "Monad",
+      "marketId": "0x8bdb7d2c5024d349772884afb3c5c409bc8de58ed63d79618bf48fb57b595060",
+      "valueUsd": 25769036.378707472,
+      "legs": [
+        {
+          "path": [
+            "base feed 1"
+          ],
+          "pair": "WSTETH/STETH"
+        }
+      ],
+      "url": "https://app.morpho.org/monad/variable/0x8bdb7d2c5024d349772884afb3c5c409bc8de58ed63d79618bf48fb57b595060/x"
+    },
+    {
+      "pair": "USDC/wsrUSD",
+      "chain": "Ethereum",
+      "marketId": "0x1590cb22d797e226df92ebc6e0153427e207299916e7e4e53461389ad68272fb",
+      "valueUsd": 6851488.64004199,
+      "legs": [
+        {
+          "path": [
+            "backup oracle",
+            "base feed 1"
+          ],
+          "pair": "WSRUSD/USD"
+        }
+      ],
+      "url": "https://app.morpho.org/ethereum/variable/0x1590cb22d797e226df92ebc6e0153427e207299916e7e4e53461389ad68272fb/x"
+    },
+    {
+      "pair": "USDC/wJAAA",
+      "chain": "Ethereum",
+      "marketId": "0xb55c0ebe12c4af149ce74ba4d83ca847c3be6787921b36b51a4d98bd105163e2",
+      "valueUsd": 2224595.5235973634,
+      "legs": [
+        {
+          "path": [
+            "base feed 1"
+          ],
+          "pair": "None/None"
+        },
+        {
+          "path": [
+            "base feed 1",
+            "uScribe router"
+          ],
+          "pair": "None/None"
+        }
+      ],
+      "url": "https://app.morpho.org/ethereum/variable/0xb55c0ebe12c4af149ce74ba4d83ca847c3be6787921b36b51a4d98bd105163e2/x"
+    },
+    {
+      "pair": "USDC/GRO",
+      "chain": "Base",
+      "marketId": "0x093279173e34dd4589a83f10a1cae316f6227efe8ac51342fec9e29d78b68d4e",
+      "valueUsd": 341022.11968260555,
+      "legs": [
+        {
+          "path": [
+            "base feed 1"
+          ],
+          "pair": "None/None"
+        },
+        {
+          "path": [
+            "base feed 1",
+            "uScribe router"
+          ],
+          "pair": "None/None"
+        }
+      ],
+      "url": "https://app.morpho.org/base/variable/0x093279173e34dd4589a83f10a1cae316f6227efe8ac51342fec9e29d78b68d4e/x"
+    },
+    {
+      "pair": "AUSD/WBTC",
+      "chain": "Monad",
+      "marketId": "0x0ce0a3398925f5112360db21750912f2a834c5cb90ecf03f461b2e2561320955",
+      "valueUsd": 49174.93674041603,
+      "legs": [
+        {
+          "path": [
+            "base feed 1"
+          ],
+          "pair": "WBTC/USD"
+        }
+      ],
+      "url": "https://app.morpho.org/monad/variable/0x0ce0a3398925f5112360db21750912f2a834c5cb90ecf03f461b2e2561320955/x"
+    },
+    {
+      "pair": "AUSD/WMON",
+      "chain": "Monad",
+      "marketId": "0xfa0b720389b546fcf8562c18cda8c00460072b63776add7fbfe8cd4f06d7c3ba",
+      "valueUsd": 41030.33827329036,
+      "legs": [
+        {
+          "path": [
+            "base feed 1"
+          ],
+          "pair": "MON/USD"
+        }
+      ],
+      "url": "https://app.morpho.org/monad/variable/0xfa0b720389b546fcf8562c18cda8c00460072b63776add7fbfe8cd4f06d7c3ba/x"
+    },
+    {
+      "pair": "AUSD/WETH",
+      "chain": "Monad",
+      "marketId": "0x0e747c3de720c1825bcc69d4c1ae4831ab9dcf16ec1c3ceb9cbbc2d13bed7b54",
+      "valueUsd": 32611.762079667158,
+      "legs": [
+        {
+          "path": [
+            "base feed 1"
+          ],
+          "pair": "ETH/USD"
+        }
+      ],
+      "url": "https://app.morpho.org/monad/variable/0x0e747c3de720c1825bcc69d4c1ae4831ab9dcf16ec1c3ceb9cbbc2d13bed7b54/x"
+    },
+    {
+      "pair": "AUSD/wstETH",
+      "chain": "Monad",
+      "marketId": "0x2127fa3d2cfb96224b742395311b26b0e428539d335ba1bd63f763b12fdbe287",
+      "valueUsd": 31290.021461100645,
+      "legs": [
+        {
+          "path": [
+            "base feed 1"
+          ],
+          "pair": "WSTETH/USD"
+        }
+      ],
+      "url": "https://app.morpho.org/monad/variable/0x2127fa3d2cfb96224b742395311b26b0e428539d335ba1bd63f763b12fdbe287/x"
+    },
+    {
+      "pair": "USDC/deSPXA",
+      "chain": "Base",
+      "marketId": "0x4440abd9eff38ebf76b8f64c074682acef8c89e77555075478a7582883206604",
+      "valueUsd": 24729.72236066538,
+      "legs": [
+        {
+          "path": [
+            "base feed 1"
+          ],
+          "pair": "None/None"
+        },
+        {
+          "path": [
+            "base feed 1",
+            "uScribe router"
+          ],
+          "pair": "None/None"
+        }
+      ],
+      "url": "https://app.morpho.org/base/variable/0x4440abd9eff38ebf76b8f64c074682acef8c89e77555075478a7582883206604/x"
+    },
+    {
+      "pair": "USDC/wsrUSD",
+      "chain": "Ethereum",
+      "marketId": "0x32e253d33f1594a67fc6ef51bf7a39cc4bf2d14904998dee769706fcde489ed9",
+      "valueUsd": 17746.047271039388,
+      "legs": [
+        {
+          "path": [
+            "backup oracle",
+            "base feed 1"
+          ],
+          "pair": "WSRUSD/USD"
+        }
+      ],
+      "url": "https://app.morpho.org/ethereum/variable/0x32e253d33f1594a67fc6ef51bf7a39cc4bf2d14904998dee769706fcde489ed9/x"
+    },
+    {
+      "pair": "USDC/cirBTC",
+      "chain": "Arc",
+      "marketId": "0xabd1763943714b96b6590238d484a240019b4b842eb67fbcff7d96c081b7b566",
+      "valueUsd": 101.4116929540047,
+      "legs": [
+        {
+          "path": [
+            "base feed 1"
+          ],
+          "pair": "CIRBTC/USD"
+        }
+      ],
+      "url": "https://app.morpho.org/arc/variable/0xabd1763943714b96b6590238d484a240019b4b842eb67fbcff7d96c081b7b566/x"
+    },
+    {
+      "pair": "USDC/wsrUSD",
+      "chain": "Base",
+      "marketId": "0x5f42e9a47335fc15507f0ab6ac362e9d0fcd2f6fd881852198824c5b01045cb7",
+      "valueUsd": 0.6562005013516355,
+      "legs": [
+        {
+          "path": [
+            "base feed 1"
+          ],
+          "pair": "WSRUSD/USD"
+        }
+      ],
+      "url": "https://app.morpho.org/base/variable/0x5f42e9a47335fc15507f0ab6ac362e9d0fcd2f6fd881852198824c5b01045cb7/x"
+    }
+  ],
+  "totalValueUsd": 35382827.55810907,
+  "listedMarketsChecked": 714,
+  "errors": []
+}

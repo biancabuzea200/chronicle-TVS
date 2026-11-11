@@ -1,0 +1,99 @@
+{
+  "snapshotAt": "2026-11-10T10:16:26.069514+00:00",
+  "source": "https://chroniclelabs.org/dashboard/proof-of-asset",
+  "funds": [
+    {
+      "name": "BlackRock USD Institutional Digital Liquidity Fund",
+      "slug": "blackrock-buidl",
+      "issuer": "Securitize",
+      "valueUsd": 1645984330.337649
+    },
+    {
+      "name": "Galaxy Warehouse",
+      "slug": "galaxy-warehouse",
+      "issuer": "Galaxy",
+      "valueUsd": 668037610.6599998
+    },
+    {
+      "name": "Invesco Short Duration US Government Securities Fund",
+      "slug": "superstate-ustb",
+      "issuer": "Superstate",
+      "valueUsd": 641741525.33
+    },
+    {
+      "name": "Janus Henderson AAA CLO Fund",
+      "slug": "janus-henderson-anemoy-aaa-clo-fund",
+      "issuer": "Centrifuge",
+      "valueUsd": 578222012.02
+    },
+    {
+      "name": "Securitize STAC",
+      "slug": "securitize-stac",
+      "issuer": "Securitize",
+      "valueUsd": 283948177.6
+    },
+    {
+      "name": "GromaCoin",
+      "slug": "gromacoin",
+      "issuer": "Birch Hill",
+      "valueUsd": 71354581.39298
+    },
+    {
+      "name": "Janus Henderson Treasury Fund",
+      "slug": "janus-henderson-anemoy-treasury-fund",
+      "issuer": "Centrifuge",
+      "valueUsd": 62404200.89
+    },
+    {
+      "name": "Apollo ACRDX",
+      "slug": "anemoy-tokenized-apollo-acrdx",
+      "issuer": "Centrifuge",
+      "valueUsd": 23147369.544
+    },
+    {
+      "name": "Galaxy CLO",
+      "slug": "galaxy-clo",
+      "issuer": "Galaxy",
+      "valueUsd": 17943722.23
+    },
+    {
+      "name": "JTRSY deRWA",
+      "slug": "centrifuge-dejtrsy",
+      "issuer": "Centrifuge",
+      "valueUsd": 11094081.262792
+    },
+    {
+      "name": "JAAA deRWA",
+      "slug": "centrifuge-dejaaa",
+      "issuer": "Centrifuge",
+      "valueUsd": 9505830.772779
+    },
+    {
+      "name": "SPXA deRWA",
+      "slug": "centrifuge-despxa",
+      "issuer": "Centrifuge",
+      "valueUsd": 1836972.54
+    },
+    {
+      "name": "NYLIM US High Yield Bond Fund",
+      "slug": "centrifuge-hyb",
+      "issuer": "Centrifuge",
+      "valueUsd": 643531.98
+    },
+    {
+      "name": "ACRDX deRWA",
+      "slug": "centrifuge-decrdx",
+      "issuer": "Centrifuge",
+      "valueUsd": 100420.389999
+    }
+  ],
+  "excludedDuplicateFeeds": [
+    {
+      "name": "SPXA deRWA (7/24 Price Proxy)",
+      "slug": "centrifuge-despxa-7-24",
+      "valueUsd": 1836972.54
+    }
+  ],
+  "totalProofOfAssetTvsUsd": 4015964366.950199,
+  "dashboardReportedTotalUsd": 4015964366.950199
+}

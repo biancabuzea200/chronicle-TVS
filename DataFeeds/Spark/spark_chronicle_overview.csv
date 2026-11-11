@@ -1,0 +1,22 @@
+symbol,locked_tokens,price_usd,value_usd,is_chronicle_confirmed,chronicle_note
+wstETH,1242074.354721,2569.635097,3191677855.01,True,"wraps ethSource -> Aggregated price feed ETH/USD from Chronicle, Chainlink, and RedStone oracles"
+cbBTC,4446.576744,73527.220036,326944426.64,True,"Aggregated price feed BTC/USD from Chronicle, Chainlink, and RedStone oracles"
+USDS,232800136.679921,1.000000,232800136.68,False,
+WBTC,2291.309931,73490.456426,168389412.65,False,
+WETH,79671.882835,2057.388838,163916042.48,True,"Aggregated price feed ETH/USD from Chronicle, Chainlink, and RedStone oracles"
+weETH,38372.000000,2279.401149,87465180.89,True,"wraps ethSource -> Aggregated price feed ETH/USD from Chronicle, Chainlink, and RedStone oracles"
+LBTC,1131.773824,73527.220036,83216182.95,True,"Aggregated price feed BTC/USD from Chronicle, Chainlink, and RedStone oracles"
+PYUSD,69604345.019457,1.000000,69604345.02,False,
+DAI,52335336.874501,1.000000,52335336.87,False,
+USDT,15770652.738111,1.000000,15770652.74,False,
+RLUSD,13074200.892856,1.000000,13074200.89,False,
+rETH,3415.159454,2418.567435,8259793.44,True,"wraps ethSource -> Aggregated price feed ETH/USD from Chronicle, Chainlink, and RedStone oracles"
+sUSDS,2978342.366278,1.115981,3323773.16,False,
+tBTC,20.851634,73527.220036,1533162.69,True,"Aggregated price feed BTC/USD from Chronicle, Chainlink, and RedStone oracles"
+USDC,1036906.317045,1.000000,1036906.32,False,
+sDAI,25526.052874,1.182853,30193.56,False,
+rsETH,2.881526,2230.758022,6427.99,True,"wraps ethSource -> Aggregated price feed ETH/USD from Chronicle, Chainlink, and RedStone oracles"
+ezETH,1.946094,2240.489088,4360.20,True,"wraps ethSource -> Aggregated price feed ETH/USD from Chronicle, Chainlink, and RedStone oracles"
+USDG,1.000009,1.000000,1.00,False,
+GNO,0.000000,113.130000,0.00,False,
+"TOTAL (all reserves, per scope decision)",,,4419388391.19,,

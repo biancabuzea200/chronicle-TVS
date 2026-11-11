@@ -1,0 +1,1003 @@
+{
+  "perMarket": [
+    {
+      "pair": "WETH/wstETH",
+      "chain": "Monad",
+      "marketId": "0x8bdb7d2c5024d349772884afb3c5c409bc8de58ed63d79618bf48fb57b595060",
+      "valueUsd": 25679047.402210202,
+      "url": "https://app.morpho.org/monad/variable/0x8bdb7d2c5024d349772884afb3c5c409bc8de58ed63d79618bf48fb57b595060/x",
+      "suppliers": [
+        {
+          "kind": "vault-v2-adapter",
+          "address": "0xA6b6155b214E1b378344987B6De5E79EAE828e35",
+          "vault": "Steakhouse Prime ETH",
+          "curator": "Steakhouse Financial",
+          "attribution": "tagged",
+          "usd": 20724571.842084583
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x59ABc0e437971d585c2bc4d69DC8B31F2f23E855",
+          "curator": null,
+          "attribution": null,
+          "usd": 3897669.7731605275
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x3C11b946820c1F9C9b86CcD740b9986041155241",
+          "curator": null,
+          "attribution": null,
+          "usd": 460563.53690500703
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x9b6f53be2af3Cd989f82134deB1963532d3Ec50e",
+          "curator": null,
+          "attribution": null,
+          "usd": 61940.73146734324
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xB8B1be69A221Ce7b747ce71f262C0B18Bc60df19",
+          "curator": null,
+          "attribution": null,
+          "usd": 18677.007747857384
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xe786811D08AF6E64dEb98744Ba490B1b1da4E891",
+          "curator": null,
+          "attribution": null,
+          "usd": 11809.859910874773
+        },
+        {
+          "kind": "vault-v1",
+          "address": "0xba8424EBBEd6C51bEa6d6D903B8815838E6a0322",
+          "vault": "Steakhouse Prime ETH",
+          "curator": "Steakhouse Financial",
+          "attribution": "inferred-from-name",
+          "usd": 239.54649831894372
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x777777f7447C10c1360926D282Ff218100ca279a",
+          "curator": null,
+          "attribution": null,
+          "usd": 10.273277556122968
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xbadA9c382165b31419F4CC0eDf0Fa84f80A3C8E5",
+          "curator": null,
+          "attribution": null,
+          "usd": 2.4577450765568636
+        },
+        {
+          "kind": "vault-v1",
+          "address": "0x4f28CC08305E8585f8dD2A329BA41e77a9a54f97",
+          "vault": "Steakhouse High Yield ETH",
+          "curator": "Steakhouse Financial",
+          "attribution": "inferred-from-name",
+          "usd": 1.3303219121022463
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.6153095140774928
+        },
+        {
+          "kind": "vault-v2-adapter",
+          "address": "0xAE5fBbc166453D94885f332d882effed24b6a155",
+          "vault": "Steakhouse High Yield ETH",
+          "curator": "Steakhouse Financial",
+          "attribution": "tagged",
+          "usd": 0.30429216853877483
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x000000000000000000000000000000000000dEaD",
+          "curator": null,
+          "attribution": null,
+          "usd": 2.073489915319844e-12
+        }
+      ],
+      "dustUsd": 503560.12348946556
+    },
+    {
+      "pair": "USDC/wsrUSD",
+      "chain": "Ethereum",
+      "marketId": "0x1590cb22d797e226df92ebc6e0153427e207299916e7e4e53461389ad68272fb",
+      "valueUsd": 6860689.230718655,
+      "url": "https://app.morpho.org/ethereum/variable/0x1590cb22d797e226df92ebc6e0153427e207299916e7e4e53461389ad68272fb/x",
+      "suppliers": [
+        {
+          "kind": "vault-v2-adapter",
+          "address": "0x5e7c120c8b1d3bD1EeB2C757dEF0E0F74272c6f0",
+          "vault": "Waterline Reservoir USDC",
+          "curator": "Waterline",
+          "attribution": "tagged",
+          "usd": 6396412.436832121
+        },
+        {
+          "kind": "vault-v1",
+          "address": "0xbeEF346d7099865208Ff331e4f648f4154DDAa05",
+          "vault": "Waterline Reservoir USDC",
+          "curator": "Waterline",
+          "attribution": "tagged",
+          "usd": 498412.5220952975
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xc825779C89120eeEf746C51130B362478E181d39",
+          "curator": null,
+          "attribution": null,
+          "usd": 34981.50918293105
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xc2A119EA6De75e4B1451330321CB2474Eb8D82d4",
+          "curator": null,
+          "attribution": null,
+          "usd": 677.1517969713616
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x928f888E02fDe769bb47577C5508d1C08D1d8faD",
+          "curator": null,
+          "attribution": null,
+          "usd": 55.49165564973919
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x8cE9594BcDFed5d513B7D4c91bB6b8edAb275Dac",
+          "curator": null,
+          "attribution": null,
+          "usd": 18.725543930586166
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xe1c3A197D16EF96A7C8E7c5f6B83b5E032cD76a9",
+          "curator": null,
+          "attribution": null,
+          "usd": 4.3202764312432915
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xf93E64079526B49FB93337789aaF1870f0356FFa",
+          "curator": null,
+          "attribution": null,
+          "usd": 2.56407652207044
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x75bAFAB1B0073f942a244DD0F1061E91D7Fd196B",
+          "curator": null,
+          "attribution": null,
+          "usd": 1.6409907780528599
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a",
+          "curator": null,
+          "attribution": null,
+          "usd": 1.0353695066034838
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x4Dd128D7CdFfE73EBBB0becdFf2e5Fb0c457E1B8",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.534868544032992
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x5a1B533b476701f7BAE1975Bee6B4Eb10df13061",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.07363110609363599
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x000000000000000000000000000000000000dEaD",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.00103477663458
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x4C1b607CB6e1DF0541368FDA667ab673CD0602Fe",
+          "curator": null,
+          "attribution": null,
+          "usd": 2.999352564e-06
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x301035611B11338Fb75260A9957633903F97E7b1",
+          "curator": null,
+          "attribution": null,
+          "usd": 1.9995683759999995e-06
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x81F775B7634789c428Fa89C635a40cfB0Fe14479",
+          "curator": null,
+          "attribution": null,
+          "usd": 9.997841879999998e-07
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x71863e0B4D307Ab70c9E084C03260aEdfB21D5B6",
+          "curator": null,
+          "attribution": null,
+          "usd": 9.997841879999998e-07
+        }
+      ],
+      "dustUsd": 0.0
+    },
+    {
+      "pair": "USDC/wJAAA",
+      "chain": "Ethereum",
+      "marketId": "0xb55c0ebe12c4af149ce74ba4d83ca847c3be6787921b36b51a4d98bd105163e2",
+      "valueUsd": 2224703.0758459335,
+      "url": "https://app.morpho.org/ethereum/variable/0xb55c0ebe12c4af149ce74ba4d83ca847c3be6787921b36b51a4d98bd105163e2/x",
+      "suppliers": [
+        {
+          "kind": "vault-v2-adapter",
+          "address": "0xec9147e0865029A5DDAA25201eeEA09a64102492",
+          "vault": "3F x Steakhouse USDC",
+          "curator": "Steakhouse Financial",
+          "attribution": "tagged",
+          "usd": 2224918.679750331
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x1416ebd818B3A6c7EB287b341d2c1637664156D6",
+          "curator": null,
+          "attribution": null,
+          "usd": 2.0382240318448313
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x000000000000000000000000000000000000dEaD",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.0010187800875719997
+        }
+      ],
+      "dustUsd": 0.0
+    },
+    {
+      "pair": "USDC/GRO",
+      "chain": "Base",
+      "marketId": "0x093279173e34dd4589a83f10a1cae316f6227efe8ac51342fec9e29d78b68d4e",
+      "valueUsd": 341050.41173988185,
+      "url": "https://app.morpho.org/base/variable/0x093279173e34dd4589a83f10a1cae316f6227efe8ac51342fec9e29d78b68d4e/x",
+      "suppliers": [
+        {
+          "kind": "vault-v2-adapter",
+          "address": "0x37f524E7A00Ba61CE804Cc07a09CC76A300D8226",
+          "vault": "Birch Hill Groma Ecosystem USDC",
+          "curator": "Birch Hill",
+          "attribution": "tagged",
+          "usd": 341010.8456094404
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xF80aC6b6EE7aBFd31085524e8D72e05D21553C2A",
+          "curator": null,
+          "attribution": null,
+          "usd": 74.38944739915493
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x000000000000000000000000000000000000dEaD",
+          "curator": null,
+          "attribution": null,
+          "usd": 1.011753604298736
+        }
+      ],
+      "dustUsd": 0.0
+    },
+    {
+      "pair": "AUSD/WBTC",
+      "chain": "Monad",
+      "marketId": "0x0ce0a3398925f5112360db21750912f2a834c5cb90ecf03f461b2e2561320955",
+      "valueUsd": 49225.360832543294,
+      "url": "https://app.morpho.org/monad/variable/0x0ce0a3398925f5112360db21750912f2a834c5cb90ecf03f461b2e2561320955/x",
+      "suppliers": [
+        {
+          "kind": "vault-v2-adapter",
+          "address": "0x099b32A952a9e5b79cB4961a5209ad0242C4Bc73",
+          "vault": "Steakhouse High Yield AUSD",
+          "curator": "Steakhouse Financial",
+          "attribution": "tagged",
+          "usd": 27338.734187821177
+        },
+        {
+          "kind": "vault-v1",
+          "address": "0x32841A8511D5c2c5b253f45668780B99139e476D",
+          "vault": "Grove x Steakhouse High Yield AUSD",
+          "curator": "Steakhouse Financial",
+          "attribution": "tagged",
+          "usd": 20891.19269702983
+        },
+        {
+          "kind": "vault-v1",
+          "address": "0xBC03E505EE65f9fAa68a2D7e5A74452858C16D29",
+          "vault": "Steakhouse High Yield AUSD",
+          "curator": "Steakhouse Financial",
+          "attribution": "inferred-from-name",
+          "usd": 968.429942273298
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x5388A7f24e86c9c9D855A98C2F5a339AFA6a3acc",
+          "curator": null,
+          "attribution": null,
+          "usd": 35.89946984253229
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x3872A744aAff523830bc7c3A1f70ae7656151B2d",
+          "curator": null,
+          "attribution": null,
+          "usd": 2.167800604108168
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a",
+          "curator": null,
+          "attribution": null,
+          "usd": 1.0300809820357033
+        },
+        {
+          "kind": "vault-v1",
+          "address": "0x0E7950B089B1C4600617e641C407eF3cD15bab64",
+          "vault": "Grove x Steakhouse Prime AUSD",
+          "curator": "Steakhouse Financial",
+          "attribution": "inferred-from-name",
+          "usd": 0.7923419320271003
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x957f996D64fD4aB8dC07140aE0fc1ebA281a7808",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.0207971209710298
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xd196148CEF1EB7398658b1C75528c324d47658e6",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.015606333835231788
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x523c4fD04438aAB5e96CADCcDC92c855390Fb459",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.012314005902131797
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x000000000000000000000000000000000000dEaD",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.0010291647256731378
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x7Ec4A166b471214FC3e9BD70D97687F0c8304d2f",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.00024080456202643324
+        },
+        {
+          "kind": "vault-v1",
+          "address": "0xA2D6BE1C9D4908F4a5fbAaFFD020B4fF21D41Fca",
+          "vault": "Pocky's High Yield AUSD - Personal Vault",
+          "curator": "(no curator match: Pocky's High Yield AUSD - Personal Vault)",
+          "attribution": "unattributed",
+          "usd": 9.991890540515902e-07
+        }
+      ],
+      "dustUsd": 0.0
+    },
+    {
+      "pair": "AUSD/WMON",
+      "chain": "Monad",
+      "marketId": "0xfa0b720389b546fcf8562c18cda8c00460072b63776add7fbfe8cd4f06d7c3ba",
+      "valueUsd": 45020.87742243335,
+      "url": "https://app.morpho.org/monad/variable/0xfa0b720389b546fcf8562c18cda8c00460072b63776add7fbfe8cd4f06d7c3ba/x",
+      "suppliers": [
+        {
+          "kind": "vault-v1",
+          "address": "0x32841A8511D5c2c5b253f45668780B99139e476D",
+          "vault": "Grove x Steakhouse High Yield AUSD",
+          "curator": "Steakhouse Financial",
+          "attribution": "tagged",
+          "usd": 22644.220835178356
+        },
+        {
+          "kind": "vault-v2-adapter",
+          "address": "0x099b32A952a9e5b79cB4961a5209ad0242C4Bc73",
+          "vault": "Steakhouse High Yield AUSD",
+          "curator": "Steakhouse Financial",
+          "attribution": "tagged",
+          "usd": 14587.53844776109
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xb2256071f809F9bBD88D56ec9D0570ea7c1499a1",
+          "curator": null,
+          "attribution": null,
+          "usd": 4497.868076758022
+        },
+        {
+          "kind": "vault-v1",
+          "address": "0xBC03E505EE65f9fAa68a2D7e5A74452858C16D29",
+          "vault": "Steakhouse High Yield AUSD",
+          "curator": "Steakhouse Financial",
+          "attribution": "inferred-from-name",
+          "usd": 3305.1373749043046
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a",
+          "curator": null,
+          "attribution": null,
+          "usd": 1.0321622928352927
+        },
+        {
+          "kind": "vault-v1",
+          "address": "0x0E7950B089B1C4600617e641C407eF3cD15bab64",
+          "vault": "Grove x Steakhouse Prime AUSD",
+          "curator": "Steakhouse Financial",
+          "attribution": "inferred-from-name",
+          "usd": 0.2645662769208341
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x000000000000000000000000000000000000dEaD",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.0010321622928352928
+        }
+      ],
+      "dustUsd": 0.0
+    },
+    {
+      "pair": "AUSD/WETH",
+      "chain": "Monad",
+      "marketId": "0x0e747c3de720c1825bcc69d4c1ae4831ab9dcf16ec1c3ceb9cbbc2d13bed7b54",
+      "valueUsd": 32612.539492649244,
+      "url": "https://app.morpho.org/monad/variable/0x0e747c3de720c1825bcc69d4c1ae4831ab9dcf16ec1c3ceb9cbbc2d13bed7b54/x",
+      "suppliers": [
+        {
+          "kind": "vault-v1",
+          "address": "0x32841A8511D5c2c5b253f45668780B99139e476D",
+          "vault": "Grove x Steakhouse High Yield AUSD",
+          "curator": "Steakhouse Financial",
+          "attribution": "tagged",
+          "usd": 26045.514150525665
+        },
+        {
+          "kind": "vault-v2-adapter",
+          "address": "0x099b32A952a9e5b79cB4961a5209ad0242C4Bc73",
+          "vault": "Steakhouse High Yield AUSD",
+          "curator": "Steakhouse Financial",
+          "attribution": "tagged",
+          "usd": 6573.514719400572
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a",
+          "curator": null,
+          "attribution": null,
+          "usd": 1.0299680736725954
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x000000000000000000000000000000000000dEaD",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.0020593286404003274
+        },
+        {
+          "kind": "vault-v1",
+          "address": "0xBC03E505EE65f9fAa68a2D7e5A74452858C16D29",
+          "vault": "Steakhouse High Yield AUSD",
+          "curator": "Steakhouse Financial",
+          "attribution": "inferred-from-name",
+          "usd": 8.992701486464312e-06
+        }
+      ],
+      "dustUsd": 0.0
+    },
+    {
+      "pair": "AUSD/wstETH",
+      "chain": "Monad",
+      "marketId": "0x2127fa3d2cfb96224b742395311b26b0e428539d335ba1bd63f763b12fdbe287",
+      "valueUsd": 31290.79887158934,
+      "url": "https://app.morpho.org/monad/variable/0x2127fa3d2cfb96224b742395311b26b0e428539d335ba1bd63f763b12fdbe287/x",
+      "suppliers": [
+        {
+          "kind": "vault-v1",
+          "address": "0x32841A8511D5c2c5b253f45668780B99139e476D",
+          "vault": "Grove x Steakhouse High Yield AUSD",
+          "curator": "Steakhouse Financial",
+          "attribution": "tagged",
+          "usd": 21015.389891076007
+        },
+        {
+          "kind": "vault-v1",
+          "address": "0xBC03E505EE65f9fAa68a2D7e5A74452858C16D29",
+          "vault": "Steakhouse High Yield AUSD",
+          "curator": "Steakhouse Financial",
+          "attribution": "inferred-from-name",
+          "usd": 6368.053856282649
+        },
+        {
+          "kind": "vault-v2-adapter",
+          "address": "0x099b32A952a9e5b79cB4961a5209ad0242C4Bc73",
+          "vault": "Steakhouse High Yield AUSD",
+          "curator": "Steakhouse Financial",
+          "attribution": "tagged",
+          "usd": 3913.5448209172323
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a",
+          "curator": null,
+          "attribution": null,
+          "usd": 1.0301489268913786
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x8449f934dbFbFA050f5E7738bf2E73a811022904",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.0043414764398541595
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x000000000000000000000000000000000000dEaD",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.0010291647256731378
+        }
+      ],
+      "dustUsd": 0.0
+    },
+    {
+      "pair": "USDC/deSPXA",
+      "chain": "Base",
+      "marketId": "0x4440abd9eff38ebf76b8f64c074682acef8c89e77555075478a7582883206604",
+      "valueUsd": 25900.018815374602,
+      "url": "https://app.morpho.org/base/variable/0x4440abd9eff38ebf76b8f64c074682acef8c89e77555075478a7582883206604/x",
+      "suppliers": [
+        {
+          "kind": "vault-v2-adapter",
+          "address": "0xfaAF20a032Aefada97278C165345B6bE1AfC18c2",
+          "vault": "Steakhouse High Yield USDC",
+          "curator": "Steakhouse Financial",
+          "attribution": "tagged",
+          "usd": 25131.663341868578
+        },
+        {
+          "kind": "vault-v1",
+          "address": "0xBEEFA7B88064FeEF0cEe02AAeBBd95D30df3878F",
+          "vault": "Steakhouse High Yield USDC v1.1",
+          "curator": "Steakhouse Financial",
+          "attribution": "tagged",
+          "usd": 1115.2613866431343
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x80a8B3ea00E4ACd4Ffd018b1A864e5d67084984d",
+          "curator": null,
+          "attribution": null,
+          "usd": 12.613581215433358
+        },
+        {
+          "kind": "vault-v2-adapter",
+          "address": "0xDd82ac78B8db81F4DBCf79226f3409cC997298c1",
+          "vault": "Clearstar Base RWA",
+          "curator": "Clearstar",
+          "attribution": "tagged",
+          "usd": 5.08006939567104
+        },
+        {
+          "kind": "vault-v2-adapter",
+          "address": "0xB374574DfCe523C3854FfAb1abEdc974702f4F78",
+          "vault": "Gotthard RWA USDC",
+          "curator": "(no curator match: Gotthard RWA USDC)",
+          "attribution": "unattributed",
+          "usd": 5.03963354114568
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a",
+          "curator": null,
+          "attribution": null,
+          "usd": 1.03031549081784
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x000000000000000000000000000000000000dEaD",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.0010297416348
+        }
+      ],
+      "dustUsd": 0.0
+    },
+    {
+      "pair": "USDC/wsrUSD",
+      "chain": "Ethereum",
+      "marketId": "0x32e253d33f1594a67fc6ef51bf7a39cc4bf2d14904998dee769706fcde489ed9",
+      "valueUsd": 13646.868438518502,
+      "url": "https://app.morpho.org/ethereum/variable/0x32e253d33f1594a67fc6ef51bf7a39cc4bf2d14904998dee769706fcde489ed9/x",
+      "suppliers": [
+        {
+          "kind": "vault-v2-adapter",
+          "address": "0x5e7c120c8b1d3bD1EeB2C757dEF0E0F74272c6f0",
+          "vault": "Waterline Reservoir USDC",
+          "curator": "Waterline",
+          "attribution": "tagged",
+          "usd": 13333.453009486333
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a",
+          "curator": null,
+          "attribution": null,
+          "usd": 1.065032780148
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x000000000000000000000000000000000000dEaD",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.0010647328553999998
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x46cE9AA8167Fa3E154395c25d19dB25DdFCfeab4",
+          "curator": null,
+          "attribution": null,
+          "usd": 1.99949832e-06
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x62dFA6eBA6a34E55c454894dd9b3E688F88CB09b",
+          "curator": null,
+          "attribution": null,
+          "usd": 9.9974916e-07
+        }
+      ],
+      "dustUsd": 312.34932851991834
+    },
+    {
+      "pair": "USDC/cirBTC",
+      "chain": "Arc",
+      "marketId": "0xabd1763943714b96b6590238d484a240019b4b842eb67fbcff7d96c081b7b566",
+      "valueUsd": 101.40816149983007,
+      "url": "https://app.morpho.org/arc/variable/0xabd1763943714b96b6590238d484a240019b4b842eb67fbcff7d96c081b7b566/x",
+      "suppliers": [
+        {
+          "kind": "unidentified",
+          "address": "0xF30B92D4E0FAe196bf646F8e3D8F9e076228Bf4A",
+          "curator": null,
+          "attribution": null,
+          "usd": 99.59997607352855
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xFcDB54A0a135dD3257cd36260e7aed6bff131a8D",
+          "curator": null,
+          "attribution": null,
+          "usd": 1.8017529348977999
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.010017486583199998
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x000000000000000000000000000000000000dEaD",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.0010017486583199999
+        },
+        {
+          "kind": "vault-v2-adapter",
+          "address": "0xb883bc672991771843BF32D662C0339E3451B99A",
+          "vault": "Dialectic RWA USDC",
+          "curator": "Dialectic Meccanico",
+          "attribution": "tagged",
+          "usd": 9.9974916e-07
+        }
+      ],
+      "dustUsd": 0.0
+    },
+    {
+      "pair": "USDC/wsrUSD",
+      "chain": "Base",
+      "marketId": "0x5f42e9a47335fc15507f0ab6ac362e9d0fcd2f6fd881852198824c5b01045cb7",
+      "valueUsd": 0.6561776505152833,
+      "url": "https://app.morpho.org/base/variable/0x5f42e9a47335fc15507f0ab6ac362e9d0fcd2f6fd881852198824c5b01045cb7/x",
+      "suppliers": [
+        {
+          "kind": "unidentified",
+          "address": "0xfeed46c11F57B7126a773EeC6ae9cA7aE1C03C9a",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.33346833181631996
+        },
+        {
+          "kind": "unidentified",
+          "address": "0xA188D6c10c291D215c63FD027C35F2f760dE8aF5",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.31439511734183995
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x000000000000000000000000000000000000dEaD",
+          "curator": null,
+          "attribution": null,
+          "usd": 0.008330909750279999
+        },
+        {
+          "kind": "unidentified",
+          "address": "0x69218c6f102e3bB7B2733Eb597bA29b55621045d",
+          "curator": null,
+          "attribution": null,
+          "usd": 1.9994983199999995e-06
+        },
+        {
+          "kind": "vault-v2-adapter",
+          "address": "0xfaAF20a032Aefada97278C165345B6bE1AfC18c2",
+          "vault": "Steakhouse High Yield USDC",
+          "curator": "Steakhouse Financial",
+          "attribution": "tagged",
+          "usd": 9.997491599999997e-07
+        }
+      ],
+      "dustUsd": 0.0
+    }
+  ],
+  "curatorTotals": {
+    "Steakhouse Financial": {
+      "totalUsd": 23129630.955517195,
+      "taggedUsd": 23118747.400606304,
+      "inferredFromNameUsd": 10883.554910892948,
+      "unattributedUsd": 0.0,
+      "byChain": {
+        "Monad": 20878465.351037353,
+        "Ethereum": 2224918.679750331,
+        "Base": 26246.924729511462
+      },
+      "markets": [
+        "AUSD/WBTC (Monad)",
+        "AUSD/WETH (Monad)",
+        "AUSD/WMON (Monad)",
+        "AUSD/wstETH (Monad)",
+        "USDC/deSPXA (Base)",
+        "USDC/wJAAA (Ethereum)",
+        "USDC/wsrUSD (Base)",
+        "WETH/wstETH (Monad)"
+      ],
+      "vaults": [
+        "3F x Steakhouse USDC",
+        "Grove x Steakhouse High Yield AUSD",
+        "Grove x Steakhouse Prime AUSD",
+        "Steakhouse High Yield AUSD",
+        "Steakhouse High Yield ETH",
+        "Steakhouse High Yield USDC",
+        "Steakhouse High Yield USDC v1.1",
+        "Steakhouse Prime ETH"
+      ]
+    },
+    "Waterline": {
+      "totalUsd": 6908158.411936904,
+      "taggedUsd": 6908158.411936904,
+      "inferredFromNameUsd": 0.0,
+      "unattributedUsd": 0.0,
+      "byChain": {
+        "Ethereum": 6908158.411936904
+      },
+      "markets": [
+        "USDC/wsrUSD (Ethereum)"
+      ],
+      "vaults": [
+        "Waterline Reservoir USDC"
+      ]
+    },
+    "Birch Hill": {
+      "totalUsd": 341010.8456094404,
+      "taggedUsd": 341010.8456094404,
+      "inferredFromNameUsd": 0.0,
+      "unattributedUsd": 0.0,
+      "byChain": {
+        "Base": 341010.8456094404
+      },
+      "markets": [
+        "USDC/GRO (Base)"
+      ],
+      "vaults": [
+        "Birch Hill Groma Ecosystem USDC"
+      ]
+    },
+    "Clearstar": {
+      "totalUsd": 5.08006939567104,
+      "taggedUsd": 5.08006939567104,
+      "inferredFromNameUsd": 0.0,
+      "unattributedUsd": 0.0,
+      "byChain": {
+        "Base": 5.08006939567104
+      },
+      "markets": [
+        "USDC/deSPXA (Base)"
+      ],
+      "vaults": [
+        "Clearstar Base RWA"
+      ]
+    },
+    "(no curator match: Gotthard RWA USDC)": {
+      "totalUsd": 5.03963354114568,
+      "taggedUsd": 0.0,
+      "inferredFromNameUsd": 0.0,
+      "unattributedUsd": 5.03963354114568,
+      "byChain": {
+        "Base": 5.03963354114568
+      },
+      "markets": [
+        "USDC/deSPXA (Base)"
+      ],
+      "vaults": [
+        "Gotthard RWA USDC"
+      ]
+    },
+    "Dialectic Meccanico": {
+      "totalUsd": 9.9974916e-07,
+      "taggedUsd": 9.9974916e-07,
+      "inferredFromNameUsd": 0.0,
+      "unattributedUsd": 0.0,
+      "byChain": {
+        "Arc": 9.9974916e-07
+      },
+      "markets": [
+        "USDC/cirBTC (Arc)"
+      ],
+      "vaults": [
+        "Dialectic RWA USDC"
+      ]
+    },
+    "(no curator match: Pocky's High Yield AUSD - Personal Vault)": {
+      "totalUsd": 9.991890540515902e-07,
+      "taggedUsd": 0.0,
+      "inferredFromNameUsd": 0.0,
+      "unattributedUsd": 9.991890540515902e-07,
+      "byChain": {
+        "Monad": 9.991890540515902e-07
+      },
+      "markets": [
+        "AUSD/WBTC (Monad)"
+      ],
+      "vaults": [
+        "Pocky's High Yield AUSD - Personal Vault"
+      ]
+    }
+  },
+  "unidentifiedUsd": 4491151.640530325,
+  "unidentifiedByChain": {
+    "Monad": 4455214.3716808,
+    "Ethereum": 35746.15377747013,
+    "Base": 89.70232380974643,
+    "Arc": 101.41274824366788
+  },
+  "dustUsd": 503872.47281798546,
+  "dustByChain": {
+    "Monad": 503560.12348946556,
+    "Ethereum": 312.34932851991834,
+    "Base": 0.0,
+    "Arc": 0.0
+  },
+  "grandTotalUsd": 35373834.44611678,
+  "finalOutput": {
+    "chains": [
+      "Arc",
+      "Base",
+      "Ethereum",
+      "Monad"
+    ],
+    "rows": [
+      {
+        "label": "Steakhouse Financial",
+        "byChain": {
+          "Monad": 20878465.351037353,
+          "Ethereum": 2224918.679750331,
+          "Base": 26246.924729511462
+        },
+        "totalUsd": 23129630.955517195
+      },
+      {
+        "label": "Waterline",
+        "byChain": {
+          "Ethereum": 6908158.411936904
+        },
+        "totalUsd": 6908158.411936904
+      },
+      {
+        "label": "(unidentified addresses)",
+        "byChain": {
+          "Monad": 4455214.3716808,
+          "Ethereum": 35746.15377747013,
+          "Base": 89.70232380974643,
+          "Arc": 101.41274824366788
+        },
+        "totalUsd": 4491151.640530325
+      },
+      {
+        "label": "(long tail, uncovered)",
+        "byChain": {
+          "Monad": 503560.12348946556,
+          "Ethereum": 312.34932851991834,
+          "Base": 0.0,
+          "Arc": 0.0
+        },
+        "totalUsd": 503872.47281798546
+      },
+      {
+        "label": "Birch Hill",
+        "byChain": {
+          "Base": 341010.8456094404
+        },
+        "totalUsd": 341010.8456094404
+      },
+      {
+        "label": "Clearstar",
+        "byChain": {
+          "Base": 5.08006939567104
+        },
+        "totalUsd": 5.08006939567104
+      },
+      {
+        "label": "(no curator match: Gotthard RWA USDC)",
+        "byChain": {
+          "Base": 5.03963354114568
+        },
+        "totalUsd": 5.03963354114568
+      },
+      {
+        "label": "Dialectic Meccanico",
+        "byChain": {
+          "Arc": 9.9974916e-07
+        },
+        "totalUsd": 9.9974916e-07
+      },
+      {
+        "label": "(no curator match: Pocky's High Yield AUSD - Personal Vault)",
+        "byChain": {
+          "Monad": 9.991890540515902e-07
+        },
+        "totalUsd": 9.991890540515902e-07
+      }
+    ],
+    "chainTotals": {
+      "Arc": 101.41274924341704,
+      "Base": 367357.5923656984,
+      "Ethereum": 9169135.594793227,
+      "Monad": 25837239.846208617
+    },
+    "grandTotalUsd": 35373834.44611678
+  }
+}
